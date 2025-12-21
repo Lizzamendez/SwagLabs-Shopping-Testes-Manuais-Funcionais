@@ -56,11 +56,17 @@ Testes de performance
 📂 Estrutura do Repositório
 
 /docs
+
  ├── fluxo-de-trabalho.pdf
+ 
  ├── user-stories.pdf
+ 
  ├── plano-de-testes.pdf
+ 
  ├── mind-map-login.pdf
+ 
  └── casos-de-teste.pdf
+ 
 README.md
 
 🧪 Tipos de Teste
