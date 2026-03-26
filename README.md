@@ -1,62 +1,68 @@
-🧪 SwagLabs Shopping — Testes Manuais Funcionais
+# 🧪 SwagLabs Shopping — Testes Manuais Funcionais
 
-📌 Sobre o Projeto
+<p align="center">
+  <img src="https://img.shields.io/badge/QA-Manual_Testing-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metodologia-Ágil-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" />
+</p>
 
-Este repositório documenta o desafio prático de Testes Manuais Funcionais, simulando o fluxo de trabalho real de um QA em um ambiente ágil.
+---
 
-O sistema base utilizado foi o SwagLabs (SauceDemo), uma plataforma padrão para práticas de garantia de qualidade, onde foram aplicados conceitos de análise crítica e exploração de cenários.
+## 📌 Sobre o Projeto
+Este repositório contém a documentação completa produzida durante o desafio prático de **QA Manual**. O foco foi simular o dia a dia de um analista de qualidade em um contexto ágil, utilizando a aplicação [SwagLabs](https://www.saucedemo.com/).
 
-🎯 Objetivos do Desafio
-Levantamento de Requisitos: Análise detalhada para garantir a cobertura dos testes.
+---
 
-Escrita de User Stories: Foco na experiência do usuário e critérios de aceite.
+## 🎯 Objetivos Principais
+* **Levantamento de Requisitos:** Análise crítica e detalhada.
+* **User Stories:** Redação focada no usuário com critérios de aceite.
+* **Planejamento de Testes:** Definição de estratégia e cobertura.
+* **Execução Manual:** Testes de caixa-preta e reporte de resultados.
 
-Planejamento e Execução: Documentação de casos de teste e validação manual (Caixa-Preta).
+---
 
-🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas e Tecnologias
+| Ferramenta | Finalidade |
+| :--- | :--- |
+| **Jira** | Gestão de tarefas, bugs e ciclos de teste |
+| **Confluence** | Documentação e base de conhecimento |
+| **GitHub** | Versionamento e entrega do projeto |
+| **Mind Maps** | Apoio visual ao levantamento de cenários |
 
-Jira: Gestão de tarefas, bugs e ciclos de teste.
+---
 
-Confluence: Centralização da documentação do projeto.
+## 🔍 Escopo de Testes
 
-GitHub: Versionamento e organização dos artefatos.
+### ✅ **Funcionalidades Testadas**
+* **Login:** Fluxos de sucesso, erro e usuários bloqueados.
+* **Produtos:** Listagem, visualização e ordenação.
+* **Carrinho:** Adição, persistência e fluxo de checkout.
 
-Mind Maps: Apoio visual para mapeamento de cenários de teste.
+### ❌ **Fora de Escopo**
+* Pagamentos reais e integrações externas.
+* Testes automatizados e de performance.
 
-🔍 Escopo dos Testes
+---
 
-✅ Funcionalidades Testadas
-Fluxo de Autenticação: Login de diferentes tipos de usuários e validações de erro.
+## 📂 Estrutura do Repositório
+Abaixo estão os links diretos para os artefatos de teste localizados na pasta `/docs`:
 
-Catálogo de Produtos: Listagem dinâmica e ordenação.
+1.  📄 **[Fluxo de Trabalho](./docs/fluxo-de-trabalho.pdf)**
+2.  📄 **[User Stories](./docs/user-stories.pdf)**
+3.  📄 **[Plano de Testes](./docs/plano-de-testes.pdf)**
+4.  📄 **[Mind Map Login](./docs/mind-map-login.pdf)**
+5.  📄 **[Casos de Teste (BDD)](./docs/casos-de-teste.pdf)**
 
-Carrinho de Compras: Adição, persistência e fluxo básico de checkout.
+---
 
-❌ Fora de Escopo
-Processamento real de pagamentos e integrações externas.
+## 🧪 Metodologia e Tipos de Teste
+* **Abordagem:** Caixa-preta.
+* **Níveis:** Testes de sistema e aceite.
+* **Escrita:** Casos de teste *step-by-step* e formato **BDD (Gherkin)**.
 
-Automação de testes (próxima etapa do aprendizado).
+---
 
-Testes de performance e carga.
-
-📂 Estrutura de Documentação (/docs)
-
-Os documentos estão organizados para garantir a rastreabilidade do processo:
-
-📄 fluxo-de-trabalho.pdf: Desenho do processo ágil adotado.
-
-📄 user-stories.pdf: Requisitos detalhados com critérios de aceite.
-
-📄 plano-de-testes.pdf: Estratégia, riscos e cronograma.
-
-📄 mind-map-login.pdf: Visão lógica dos cenários de acesso.
-
-📄 casos-de-teste.pdf: Passo a passo detalhado e escrita em BDD (Gherkin).
-
-🧠 Aprendizados e Insights
-
-Visão Analítica: A importância de "quebrar" o sistema para entender sua estrutura e prever falhas.
-
-Comunicação Técnica: Redação de bugs e casos de teste de forma clara e objetiva.
-
-QA no Ciclo de Vida: O valor estratégico do tester desde a fase de requisitos, não apenas na execução final.
+## 🧠 Aprendizados
+* A importância da clareza na definição de requisitos.
+* O papel ativo do QA durante todo o ciclo de desenvolvimento.
+* Diferenciação precisa entre comportamento esperado e defeito.
