@@ -49,9 +49,9 @@ Abaixo estão os links diretos para os artefatos de teste localizados na pasta `
 
 1.  📄 **[Fluxo de Trabalho](Workflow_Bug.pdf)**
 2.  📄 **[User Stories](user-stories.pdf)**
-3.  📄 **[Plano de Testes]( Plano de Testes.pdf)**
-4.  📄 **[Mind Map Login](Mind Map.pdf)**
-5.  📄 **[Casos de Teste (BDD)](Casos de Teste.pdf)**
+3.  📄 **[Plano de Testes](PlanodeTestes.pdf)**
+4.  📄 **[Mind Map Login](MindMap.pdf)**
+5.  📄 **[Casos de Teste (BDD)](CasosdeTeste.pdf)**
 
 ---
 
