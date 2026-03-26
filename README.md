@@ -1,96 +1,56 @@
-SwagLabs Shopping — Testes Manuais Funcionais
+🧪 SwagLabs Shopping — Testes Manuais Funcionais
 📌 Sobre o Projeto
+Este repositório documenta o desafio prático de Testes Manuais Funcionais, simulando o fluxo de trabalho real de um QA em um ambiente ágil.
 
-Este repositório contém a documentação produzida durante o desafio prático de Testes Manuais Funcionais, com foco no dia a dia de um QA em um contexto ágil.
+O sistema base utilizado foi o SwagLabs (SauceDemo), uma plataforma padrão para práticas de garantia de qualidade, onde foram aplicados conceitos de análise crítica e exploração de cenários.
 
-O sistema utilizado como base para os testes foi o SwagLabs Shopping, uma aplicação web de demonstração voltada para a prática de testes de software.
-🎯 Objetivo
+🎯 Objetivos do Desafio
+Levantamento de Requisitos: Análise detalhada para garantir a cobertura dos testes.
 
-Aplicar conceitos fundamentais de qualidade de software, incluindo:
+Escrita de User Stories: Foco na experiência do usuário e critérios de aceite.
 
-Levantamento e análise de requisitos
+Planejamento e Execução: Documentação de casos de teste e validação manual (Caixa-Preta).
 
-Escrita de User Stories
+🛠️ Ferramentas Utilizadas
+Jira: Gestão de tarefas, bugs e ciclos de teste.
 
-Planejamento e documentação de testes
+Confluence: Centralização da documentação do projeto.
 
-Execução de testes manuais funcionais (caixa-preta)
-🧠 Metodologia
+GitHub: Versionamento e organização dos artefatos.
 
-Scrum
+Mind Maps: Apoio visual para mapeamento de cenários de teste.
 
-Trabalho orientado a User Stories
+🔍 Escopo dos Testes
+✅ Funcionalidades Testadas
+Fluxo de Autenticação: Login de diferentes tipos de usuários e validações de erro.
 
-Planejamento de testes baseado em critérios de aceite
+Catálogo de Produtos: Listagem dinâmica e ordenação.
 
-🛠 Ferramentas Utilizadas
+Carrinho de Compras: Adição, persistência e fluxo básico de checkout.
 
-JIRA – gerenciamento de tarefas, bugs e testes
+❌ Fora de Escopo
+Processamento real de pagamentos e integrações externas.
 
-Confluence – documentação
+Automação de testes (próxima etapa do aprendizado).
 
-GitHub – versionamento e entrega do projeto
+Testes de performance e carga.
 
-Mind Map – apoio ao levantamento de cenários de teste
+📂 Estrutura de Documentação (/docs)
+Os documentos estão organizados para garantir a rastreabilidade do processo:
 
-🔍 Escopo de Testes
+📄 fluxo-de-trabalho.pdf: Desenho do processo ágil adotado.
 
-Funcionalidades testadas:
+📄 user-stories.pdf: Requisitos detalhados com critérios de aceite.
 
-Login do usuário
+📄 plano-de-testes.pdf: Estratégia, riscos e cronograma.
 
-Listagem de produtos
+📄 mind-map-login.pdf: Visão lógica dos cenários de acesso.
 
-Adição de produtos ao carrinho
+📄 casos-de-teste.pdf: Passo a passo detalhado e escrita em BDD (Gherkin).
 
-Fora do escopo:
+🧠 Aprendizados e Insights
+Visão Analítica: A importância de "quebrar" o sistema para entender sua estrutura e prever falhas.
 
-Pagamentos
+Comunicação Técnica: Redação de bugs e casos de teste de forma clara e objetiva.
 
-Integrações externas
-
-Testes automatizados
-
-Testes de performance
-
-📂 Estrutura do Repositório
-
-/docs
-
- ├── fluxo-de-trabalho.pdf
- 
- ├── user-stories.pdf
- 
- ├── plano-de-testes.pdf
- 
- ├── mind-map-login.pdf
- 
- └── casos-de-teste.pdf
- 
-README.md
-
-🧪 Tipos de Teste
-
-Testes manuais
-
-Testes funcionais
-
-Testes de sistema e aceite
-
-Abordagem caixa-preta
-
-Casos de teste step-by-step e BDD (Gherkin)
-
-📌 Observações
-
-A aplicação utilizada é um ambiente de demonstração, podendo apresentar comportamentos intencionais para fins de teste, o que contribuiu para a análise crítica e identificação de cenários positivos e negativos.
-
-📚 Aprendizados
-
-Importância da clareza na definição de requisitos
-
-Papel ativo do QA durante todo o ciclo de desenvolvimento
-
-Valor da documentação mínima e objetiva
-
-Diferença entre comportamento esperado e defeito
+QA no Ciclo de Vida: O valor estratégico do tester desde a fase de requisitos, não apenas na execução final.
