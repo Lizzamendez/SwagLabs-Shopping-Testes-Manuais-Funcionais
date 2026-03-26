@@ -47,11 +47,11 @@ Este repositório contém a documentação completa produzida durante o desafio 
 ## 📂 Estrutura do Repositório
 Abaixo estão os links diretos para os artefatos de teste localizados na pasta `/docs`:
 
-1.  📄 **[Fluxo de Trabalho](./docs/fluxo-de-trabalho.pdf)**
-2.  📄 **[User Stories](./docs/user-stories.pdf)**
-3.  📄 **[Plano de Testes](./docs/plano-de-testes.pdf)**
-4.  📄 **[Mind Map Login](./docs/mind-map-login.pdf)**
-5.  📄 **[Casos de Teste (BDD)](./docs/casos-de-teste.pdf)**
+1.  📄 **[Fluxo de Trabalho](Workflow_Bug.pdf)**
+2.  📄 **[User Stories](user-stories.pdf)**
+3.  📄 **[Plano de Testes]( Plano de Testes.pdf)**
+4.  📄 **[Mind Map Login](Mind Map.pdf)**
+5.  📄 **[Casos de Teste (BDD)](Casos de Teste.pdf)**
 
 ---
 
